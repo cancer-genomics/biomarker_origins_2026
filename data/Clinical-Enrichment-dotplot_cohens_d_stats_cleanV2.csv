@@ -1,0 +1,144 @@
+Tier1,Cohort,Group,Feature,PC,N,Cohens_d,P_value,Direction
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_01,PC1†,78,0.12468638070632868,0.2804636326695864,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_02,PC2†,78,0.0063975961616307255,0.80816549684085,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_03,PC3,78,-0.05292139606292068,0.9082914182128203,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_04,PC4,78,-0.238375956063585,0.14082926137120838,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_05,PC5,78,-0.10163956850355939,0.4428623181198023,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_06,PC6,78,-0.23468219443253494,0.20384338843822386,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_07,PC7,78,0.3070503583872824,0.1033839985121623,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_08,PC8,78,-0.05516484593968984,0.7890038931486865,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_09,PC9,78,-0.19751643350394416,0.6060539543471983,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_10,PC10,78,-0.03969284360710772,0.930799890121673,ns
+Lung cancer,LUCAS Cohort,LUCAS Internal Control,ratio_pc_11,PC11,78,0.07390487242568576,0.39594218366828404,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_01,PC1†,192,0.024416285640053884,0.4152269351006338,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_02,PC2†,192,0.012656786637734641,0.7103290146660514,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_03,PC3,192,-0.07806385825693253,0.7137424408544317,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_04,PC4,192,0.007890968140222642,0.7069213896626799,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_05,PC5,192,0.03608055511707493,0.850699520595396,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_06,PC6,192,0.05870632200946845,0.36816684328714017,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_07,PC7,192,-0.03881480039926268,0.6618488154637338,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_08,PC8,192,-0.09363869129308891,0.3030212090740327,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_09,PC9,192,0.07107540815091273,0.5574317524023131,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_10,PC10,192,-0.10244613391241689,0.31038947757220636,ns
+Lung cancer,JHU Cohort,JHU Internal Control,ratio_pc_11,PC11,192,0.10347863838507816,0.2178000036397994,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_01,PC1†,22,0.2069221169497339,0.5573621225918053,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_02,PC2†,22,0.45538828017220995,0.4142128038797252,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_03,PC3,22,0.1157629583082445,0.6171904744906653,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_04,PC4,22,0.7764049312695391,0.0011774879361333543,higher
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_05,PC5,22,0.6758298558718114,0.00647489063904468,higher
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_06,PC6,22,0.6698150132260341,0.0039247480834763695,higher
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_07,PC7,22,-0.17289524640116402,0.4848465906299161,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_08,PC8,22,-0.030902131145643275,0.9036290049237523,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_09,PC9,22,-0.07166626357013527,0.772791667076252,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_10,PC10,22,-0.0815986475676248,0.5699421433895208,ns
+Lung cancer,LUCAS Cohort,Early (I/II),ratio_pc_11,PC11,22,-0.2907138561464659,0.10712024140815303,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_01,PC1†,107,0.909969622657317,1.4365452940715776e-8,higher
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_02,PC2†,107,1.1848794344995395,1.1930120824170605e-18,higher
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_03,PC3,107,-0.04407783297343111,0.4822245117293572,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_04,PC4,107,0.33366754111147656,6.787687960379121e-7,higher
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_05,PC5,107,-0.037980895702905075,0.5979706980768225,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_06,PC6,107,0.30816498331378855,0.114662641659636,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_07,PC7,107,0.16472476897087296,0.03087985095566461,higher
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_08,PC8,107,0.2008791329034794,0.04833185892339686,higher
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_09,PC9,107,0.06825487333990363,0.22156543024850747,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_10,PC10,107,0.0359736841977261,0.6241008217178503,ns
+Lung cancer,LUCAS Cohort,Late (III/IV),ratio_pc_11,PC11,107,-0.026069006494504523,0.9449362957703582,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_01,PC1†,40,0.4482555760334677,0.005785425003090091,higher
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_02,PC2†,40,0.4590374570938042,0.27896522295898046,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_03,PC3,40,0.010775969754665996,0.9466239526018831,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_04,PC4,40,0.6631479793118061,7.998034283994116e-5,higher
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_05,PC5,40,0.28708535421960757,0.005257667438469261,higher
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_06,PC6,40,0.5401846247480622,0.0010770733992926116,higher
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_07,PC7,40,-0.08251239714494608,0.27478297489453696,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_08,PC8,40,-0.0390329799478268,0.3616442645236248,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_09,PC9,40,0.2811274223762585,0.1197059680793916,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_10,PC10,40,0.3643961608869255,0.08673191960952081,ns
+Lung cancer,JHU Cohort,Early (I/II),ratio_pc_11,PC11,40,0.18100430571830609,0.3264881755194031,ns
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_01,PC1†,6,2.793722233222054,0.010221110705333457,higher
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_02,PC2†,6,3.7167924827496117,1.6593113620196718e-4,higher
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_03,PC3,6,-1.5706940486428795,0.0063636084867515295,lower
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_04,PC4,6,0.6494367425083399,0.2886179851470751,ns
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_05,PC5,6,1.7908948612541797,7.247185843291512e-4,higher
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_06,PC6,6,0.6811966316460417,0.2804272997860906,ns
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_07,PC7,6,1.8641716108262059,0.016359171923133443,higher
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_08,PC8,6,-0.33772653033468475,0.6218248787360166,ns
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_09,PC9,6,0.9182246213870757,0.025766936574731114,higher
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_10,PC10,6,-0.5547662919369253,0.0668159979266052,ns
+Lung cancer,JHU Cohort,Late (III/IV),ratio_pc_11,PC11,6,-1.2584207299823025,0.0036090928898471443,lower
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_01,PC1†,28,-0.11162719516041686,0.39066025405902793,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_02,PC2†,28,-0.003385487670311876,0.9377976371665359,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_03,PC3,28,-0.15784597670545955,0.2878116087770271,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_04,PC4,28,0.2455564357100347,0.38769636572523314,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_05,PC5,28,0.10557489995296519,0.708370582661887,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_06,PC6,28,0.25670956566974606,0.28295783425177395,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_07,PC7,28,0.08442025639269506,0.5997640383275895,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_08,PC8,28,-0.1676426692275189,0.2757817177864902,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_09,PC9,28,0.19088311256870302,0.3207249211995776,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_10,PC10,28,0.06162297192487023,0.993558810900741,ns
+Non-cancer conditions,LUCAS Cohort,COPD,ratio_pc_11,PC11,28,-0.11777888518349616,0.49598770849103574,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_01,PC1†,8,0.13690457095528416,0.7314455700234022,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_02,PC2†,8,0.5155120043860449,0.25488541895235317,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_03,PC3,8,-0.6484852224382687,0.09443861089929417,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_04,PC4,8,-0.42735753290228223,0.6989156791386542,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_05,PC5,8,-0.3770204112321777,0.6511561388491022,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_06,PC6,8,-0.5513621983526993,0.404566420275774,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_07,PC7,8,0.8528287034574251,0.044411042642000353,higher
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_08,PC8,8,-0.020915685723993695,0.9522158666321734,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_09,PC9,8,0.4585222681354343,0.25036698670967295,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_10,PC10,8,-0.21600426866559325,0.3804459364325424,ns
+Non-cancer conditions,LUCAS Cohort,Asthma,ratio_pc_11,PC11,8,0.2231441185838701,0.49589755868467134,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_01,PC1†,4,-0.17303671777970228,0.5460901789124561,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_02,PC2†,4,0.27900260837209856,0.5152625886433545,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_03,PC3,4,-0.18411697749782976,0.7242606320197005,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_04,PC4,4,1.4943517809426907,0.007168921906581865,higher
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_05,PC5,4,1.5463912222313014,0.0029672540629667107,higher
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_06,PC6,4,1.415873582809507,0.004888004713926538,higher
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_07,PC7,4,-0.47263346387108873,0.689299139286266,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_08,PC8,4,0.686841777709705,0.160544698479919,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_09,PC9,4,0.01683791795182072,0.7478974605291051,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_10,PC10,4,0.166281567506511,0.820158690241769,ns
+Non-cancer conditions,LUCAS Cohort,Rheumatoid Arthritis,ratio_pc_11,PC11,4,-0.28622417031259834,0.4104336382962113,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_01,PC1†,28,-0.2246940567149097,0.10101741082335741,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_02,PC2†,28,0.060872251699998256,0.6829984083771481,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_03,PC3,28,-0.5663931763219137,0.0021973998825801015,lower
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_04,PC4,28,0.04766569857780598,0.7837795019179257,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_05,PC5,28,0.2932835475104852,0.20910042330048087,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_06,PC6,28,0.31108672454266556,0.2044676819459933,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_07,PC7,28,0.05132585336166938,0.978417277114097,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_08,PC8,28,-0.5427482110407957,0.005767448030631738,lower
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_09,PC9,28,0.07144356049520521,0.8296600386623945,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_10,PC10,28,-0.009165737113502251,0.9353149533538431,ns
+Non-cancer conditions,MICA Morbidity Cohort,Diabetes,ratio_pc_11,PC11,28,0.5014927489474822,0.03054346752568877,higher
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_01,PC1†,32,-0.05227694448269709,0.9685123738754272,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_02,PC2†,32,0.07276296352778329,0.6992241022457094,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_03,PC3,32,-0.13072639567168734,0.9742351853338467,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_04,PC4,32,0.0948121606540103,0.4575837203075004,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_05,PC5,32,0.33719937128793154,0.04163955524390315,higher
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_06,PC6,32,0.17118897160393443,0.28113929747884164,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_07,PC7,32,-0.10045855316969375,0.5268757758244837,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_08,PC8,32,-0.3471537259367808,0.057336147169124364,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_09,PC9,32,-0.003741887147761834,0.9780511482062033,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_10,PC10,32,0.17847118882097754,0.4546916824052039,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cardiovascular disease,ratio_pc_11,PC11,32,0.45214743403486485,0.013780034042981268,higher
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_01,PC1†,6,-0.10223894243164462,0.8730917098550237,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_02,PC2†,6,-0.3978237200279001,0.21279583179206102,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_03,PC3,6,0.028769958466406304,0.877669539204416,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_04,PC4,6,-1.34663214032947,0.004385013233307666,lower
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_05,PC5,6,-0.5105467247797727,0.17501165822265966,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_06,PC6,6,-1.1184232724020666,0.002452744052438922,lower
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_07,PC7,6,0.6015473399050528,0.1440628294764193,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_08,PC8,6,-0.10195047522022976,0.778165699341624,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_09,PC9,6,-0.3542225845261291,0.25371926109011306,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_10,PC10,6,-0.2927188276144499,0.3220068885178593,ns
+Non-cancer conditions,MICA Morbidity Cohort,Cerebral vascular disease,ratio_pc_11,PC11,6,0.27323703859286896,0.3572380495413592,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_01,PC1†,18,-0.3978850552833659,0.12335491002181764,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_02,PC2†,18,0.530068798435971,0.05686357981223101,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_03,PC3,18,-0.6063896100385608,0.020863456324592262,lower
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_04,PC4,18,0.48824725228535926,0.03536734892383403,higher
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_05,PC5,18,0.4642746084312029,0.030035237983618134,higher
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_06,PC6,18,0.36295738265210076,0.0840755672856212,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_07,PC7,18,0.07632893943872948,0.8148640319590985,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_08,PC8,18,-0.27597595263309077,0.1482133607380433,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_09,PC9,18,0.24848537321278943,0.23646112361318677,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_10,PC10,18,-0.12627064823114675,0.7003845022240612,ns
+Non-cancer conditions,MICA Morbidity Cohort,Connective tissue disease,ratio_pc_11,PC11,18,0.061769204813505084,0.6691060232460021,ns

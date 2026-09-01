@@ -1,0 +1,57 @@
+# ============================================================
+# R session and history files
+# ============================================================
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ============================================================
+# IDE
+# ============================================================
+.vscode/
+.idea/
+
+# ============================================================
+# Jupyter notebook checkpoints
+# ============================================================
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ============================================================
+# OS-generated files
+# ============================================================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================================
+# Large public reference files (Human Protein Atlas)
+# Download links are in the Data access section of README.md.
+# ============================================================
+data/cancer_lung_filtered.tsv
+data/rna_single_cell_cluster.tsv
+data/rna_single_cell_type.tsv
+
+# ============================================================
+# Python (helper scripts, if any)
+# ============================================================
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# ============================================================
+# Logs and temp files
+# ============================================================
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+core.*
