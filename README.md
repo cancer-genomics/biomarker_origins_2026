@@ -219,7 +219,8 @@ If you use this code, please cite the accompanying paper:
 
 ## License
 
-*(license to be added)*
+To be determined. Please contact the authors regarding reuse of code or data
+from this repository.
 
 ---
 
