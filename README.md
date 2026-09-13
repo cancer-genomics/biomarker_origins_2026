@@ -87,7 +87,7 @@ wide-format matrix derived once from the long-format DELFI 3.0 pipeline output
 and `zscore_NA*` columns dropped, and rows restricted to participants present
 in the `rlucas` metadata. The long-format source and the corresponding MICA
 feature matrix are available from EGA, as are the aligned sequencing data and
-the per-sample intermediates under `methods_code/WG/results/`.
+the per-sample intermediates under `methods_code/WG/results/`. Expected runtime to download all data: 5-10 minutes.
 
 ---
 
@@ -96,7 +96,7 @@ the per-sample intermediates under `methods_code/WG/results/`.
 After downloading the three Human Protein Atlas files into `data/`, run the notebooks in
 `analysis_code/`. Each figure folder contains the notebook(s) that produce the
 corresponding figures in `outputs/`. Notebooks use paths relative to their own
-directory (`../../data/`, `../../outputs/`), so run them from where they live.
+directory (`../../data/`, `../../outputs/`), so run them from where they live. Expected runtime for each notebook file: 5-10 minutes.
 
 ---
 
@@ -219,8 +219,7 @@ If you use this code, please cite the accompanying paper:
 
 ## License
 
-To be determined. Please contact the authors regarding reuse of code or data
-from this repository.
+GNU General Public License v3.0
 
 ---
 
